@@ -1,0 +1,443 @@
+{
+    "code": "21102204001_EA",
+    "name": "Ginger",
+    "description": null,
+    "brand": "PC Organics",
+    "imageAssets": [
+        {
+            "imageUrl": null,
+            "smallUrl": "https://assets.shop.loblaws.ca/products/21102204001/b1/en/front/21102204001_front_a01_@2.png",
+            "mediumUrl": "https://assets.shop.loblaws.ca/products/21102204001/b3/en/front/21102204001_front_a06_@2.png",
+            "largeUrl": "https://assets.shop.loblaws.ca/products/21102204001/b2/en/front/21102204001_front_a06_@2.png",
+            "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21102204001/b1/en/front/21102204001_front_a01_@2.png",
+            "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21102204001/b3/en/front/21102204001_front_a06_@2.png",
+            "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21102204001/b2/en/front/21102204001_front_a06_@2.png"
+        }
+    ],
+    "isPrimaryVariant": false,
+    "packageSize": "160 g",
+    "mchCode": "M02270305",
+    "offers": [
+        {
+            "price": {
+                "value": 3.99,
+                "unit": "ea",
+                "quantity": 1,
+                "reasonCode": 4,
+                "type": "REGULAR",
+                "expiryDate": "9999-12-31T00:00"
+            },
+            "wasPrice": null,
+            "comparisonPrices": [
+                {
+                    "value": 2.49,
+                    "unit": "g",
+                    "quantity": 100,
+                    "reasonCode": null,
+                    "type": "REGULAR",
+                    "expiryDate": null
+                }
+            ],
+            "memberOnlyPrice": null,
+            "memberOnlyComparisonPrices": [],
+            "sellerId": "",
+            "sellerName": null,
+            "promotions": [],
+            "memberOnlyPromotions": null,
+            "stockStatus": "OK",
+            "taxes": {
+                "gst": false,
+                "gstExemptTaxFlag": "",
+                "hst": false,
+                "ppft": false,
+                "preparedFoodTaxType": "N",
+                "pst": false,
+                "spft": false
+            },
+            "fees": null,
+            "shoppable": true,
+            "specifications": null,
+            "offerId": null,
+            "offerType": "OG",
+            "status": null,
+            "badges": {
+                "textBadge": {
+                    "type": "PREVIOUSLYPURCHASED",
+                    "text": "PreviouslyPurchased",
+                    "mopDealText": null,
+                    "points": null,
+                    "name": "Previously Purchased",
+                    "expiryDate": null,
+                    "promoType": null
+                },
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null,
+                "hotmBadge": null
+            },
+            "dealPrice": null,
+            "mopDealPrice": null
+        }
+    ],
+    "pricingUnits": {
+        "type": "SOLD_BY_EACH",
+        "unit": "ea",
+        "interval": 1,
+        "minOrderQuantity": 1,
+        "maxOrderQuantity": 25,
+        "weighted": false
+    },
+    "breadcrumbs": [
+        {
+            "categoryCode": "27985",
+            "name": "Food",
+            "url": "/food/c/27985"
+        },
+        {
+            "categoryCode": "28000",
+            "name": "Fruits & Vegetables",
+            "url": "/food/fruits-vegetables/c/28000"
+        },
+        {
+            "categoryCode": "28195",
+            "name": "Fresh Vegetables",
+            "url": "/food/fruits-vegetables/fresh-vegetables/c/28195"
+        },
+        {
+            "categoryCode": "29598",
+            "name": "International & Specialty Vegetables",
+            "url": "/food/fruits-vegetables/fresh-vegetables/international-specialty-vegetables/c/29598"
+        },
+        {
+            "categoryCode": "58340",
+            "name": "South Asian",
+            "url": "/food/fruits-vegetables/fresh-vegetables/international-specialty-vegetables/south-asian/c/58340"
+        }
+    ],
+    "articleNumber": "21102204001",
+    "ingredients": null,
+    "nutritionFacts": [
+        {
+            "topNutrition": [
+                {
+                    "code": "servingSizeEN",
+                    "valueInGram": "0 g",
+                    "valuePercent": null,
+                    "subNutrients": null
+                }
+            ],
+            "calories": {
+                "code": "calories",
+                "valueInGram": "0 cal",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "totalFat": {
+                "code": "totalFat",
+                "valueInGram": null,
+                "valuePercent": "0 %",
+                "subNutrients": []
+            },
+            "totalCarbohydrate": {
+                "code": "totalCarbohydrate",
+                "valueInGram": null,
+                "valuePercent": "0 %",
+                "subNutrients": [
+                    {
+                        "code": "sugar",
+                        "valueInGram": "0 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "dietaryFiber",
+                        "valueInGram": "0 g",
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    }
+                ]
+            },
+            "protein": {
+                "code": "protein",
+                "valueInGram": "0 g",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "potassium": {
+                "code": "potassium",
+                "valueInGram": "0 mg",
+                "valuePercent": "0 %",
+                "subNutrients": null
+            },
+            "microNutrition": [
+                {
+                    "code": "vitaminA",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "vitaminC",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "calcium",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "iron",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                }
+            ],
+            "disclaimer": "PCO GINGER",
+            "ingredients": null,
+            "cholesterol": {
+                "code": "cholesterol",
+                "valueInGram": "0 mg",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "sodium": {
+                "code": "sodium",
+                "valueInGram": "0 mg",
+                "valuePercent": "0 %",
+                "subNutrients": null
+            }
+        }
+    ],
+    "isVariant": false,
+    "variantTheme": null,
+    "variantGroupId": null,
+    "uom": "EA",
+    "variants": [
+        {
+            "code": "21102204001_EA",
+            "name": "Ginger",
+            "description": null,
+            "brand": "PC Organics",
+            "imageAssets": [
+                {
+                    "imageUrl": null,
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21102204001/b1/en/front/21102204001_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21102204001/b3/en/front/21102204001_front_a06_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21102204001/b2/en/front/21102204001_front_a06_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21102204001/b1/en/front/21102204001_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21102204001/b3/en/front/21102204001_front_a06_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21102204001/b2/en/front/21102204001_front_a06_@2.png"
+                }
+            ],
+            "isPrimaryVariant": false,
+            "packageSize": "160 g",
+            "mchCode": "M02270305",
+            "offers": [
+                {
+                    "price": {
+                        "value": 3.99,
+                        "unit": "ea",
+                        "quantity": 1,
+                        "reasonCode": 4,
+                        "type": "REGULAR",
+                        "expiryDate": "9999-12-31T00:00"
+                    },
+                    "wasPrice": null,
+                    "comparisonPrices": [
+                        {
+                            "value": 2.49,
+                            "unit": "g",
+                            "quantity": 100,
+                            "reasonCode": null,
+                            "type": "REGULAR",
+                            "expiryDate": null
+                        }
+                    ],
+                    "memberOnlyPrice": null,
+                    "memberOnlyComparisonPrices": [],
+                    "sellerId": "",
+                    "sellerName": null,
+                    "promotions": [],
+                    "memberOnlyPromotions": null,
+                    "stockStatus": "OK",
+                    "taxes": {
+                        "gst": false,
+                        "gstExemptTaxFlag": "",
+                        "hst": false,
+                        "ppft": false,
+                        "preparedFoodTaxType": "N",
+                        "pst": false,
+                        "spft": false
+                    },
+                    "fees": null,
+                    "shoppable": true,
+                    "specifications": null,
+                    "offerId": null,
+                    "offerType": "OG",
+                    "status": null,
+                    "badges": {
+                        "textBadge": {
+                            "type": "PREVIOUSLYPURCHASED",
+                            "text": "PreviouslyPurchased",
+                            "mopDealText": null,
+                            "points": null,
+                            "name": "Previously Purchased",
+                            "expiryDate": null,
+                            "promoType": null
+                        },
+                        "loyaltyBadge": null,
+                        "dealBadge": null,
+                        "newItemBadge": null,
+                        "hotmBadge": null
+                    },
+                    "dealPrice": null,
+                    "mopDealPrice": null
+                }
+            ],
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "breadcrumbs": [
+                {
+                    "categoryCode": "27985",
+                    "name": "Food",
+                    "url": "/food/c/27985"
+                },
+                {
+                    "categoryCode": "28000",
+                    "name": "Fruits & Vegetables",
+                    "url": "/food/fruits-vegetables/c/28000"
+                },
+                {
+                    "categoryCode": "28195",
+                    "name": "Fresh Vegetables",
+                    "url": "/food/fruits-vegetables/fresh-vegetables/c/28195"
+                },
+                {
+                    "categoryCode": "29598",
+                    "name": "International & Specialty Vegetables",
+                    "url": "/food/fruits-vegetables/fresh-vegetables/international-specialty-vegetables/c/29598"
+                },
+                {
+                    "categoryCode": "58340",
+                    "name": "South Asian",
+                    "url": "/food/fruits-vegetables/fresh-vegetables/international-specialty-vegetables/south-asian/c/58340"
+                }
+            ],
+            "articleNumber": "21102204001",
+            "ingredients": null,
+            "nutritionFacts": [
+                {
+                    "topNutrition": [
+                        {
+                            "code": "servingSizeEN",
+                            "valueInGram": "0 g",
+                            "valuePercent": null,
+                            "subNutrients": null
+                        }
+                    ],
+                    "calories": {
+                        "code": "calories",
+                        "valueInGram": "0 cal",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    "totalFat": {
+                        "code": "totalFat",
+                        "valueInGram": null,
+                        "valuePercent": "0 %",
+                        "subNutrients": []
+                    },
+                    "totalCarbohydrate": {
+                        "code": "totalCarbohydrate",
+                        "valueInGram": null,
+                        "valuePercent": "0 %",
+                        "subNutrients": [
+                            {
+                                "code": "sugar",
+                                "valueInGram": "0 g",
+                                "valuePercent": null,
+                                "subNutrients": null
+                            },
+                            {
+                                "code": "dietaryFiber",
+                                "valueInGram": "0 g",
+                                "valuePercent": "0 %",
+                                "subNutrients": null
+                            }
+                        ]
+                    },
+                    "protein": {
+                        "code": "protein",
+                        "valueInGram": "0 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    "potassium": {
+                        "code": "potassium",
+                        "valueInGram": "0 mg",
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    },
+                    "microNutrition": [
+                        {
+                            "code": "vitaminA",
+                            "valueInGram": null,
+                            "valuePercent": "0 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "vitaminC",
+                            "valueInGram": null,
+                            "valuePercent": "0 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "calcium",
+                            "valueInGram": null,
+                            "valuePercent": "0 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "iron",
+                            "valueInGram": null,
+                            "valuePercent": "0 %",
+                            "subNutrients": null
+                        }
+                    ],
+                    "disclaimer": "PCO GINGER",
+                    "ingredients": null,
+                    "cholesterol": {
+                        "code": "cholesterol",
+                        "valueInGram": "0 mg",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    "sodium": {
+                        "code": "sodium",
+                        "valueInGram": "0 mg",
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    }
+                }
+            ],
+            "isVariant": false,
+            "variantTheme": null,
+            "variantGroupId": null,
+            "uom": "EA",
+            "variants": null,
+            "link": "/ginger/p/21102204001_EA",
+            "averageWeight": null
+        }
+    ],
+    "link": "/ginger/p/21102204001_EA",
+    "averageWeight": null
+}

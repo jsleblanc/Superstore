@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Content-Type: application/json
+Connection: keep-alive
+Vary: Origin, Accept-Encoding
+Date: Tue, 04 Jun 2024 01:49:04 GMT
+Content-Encoding: gzip
+Content-Length: 9148
+Access-Control-Allow-Origin: https://www.realcanadiansuperstore.ca
+X-Correlation-ID: rrt-2989905339768625598-c-gea1-26283-41785-364
+lblw-trace-id: 0.a4f4d517.1717465744.4362465a

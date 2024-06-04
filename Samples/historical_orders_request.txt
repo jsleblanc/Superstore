@@ -1,0 +1,21 @@
+GET /pcx-bff/api/v1/ecommerce/v2/superstore/customers/historical-orders HTTP/1.1
+Referer: https://www.realcanadiansuperstore.ca/
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+Host: api.pcexpress.ca
+Pragma: no-cache
+Origin: https://www.realcanadiansuperstore.ca
+Sec-Fetch-Dest: empty
+Sec-Fetch-Site: cross-site
+Connection: keep-alive
+Authorization: bearer token 
+Accept-Language: en
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Accept-Encoding: gzip, deflate, br
+Sec-Fetch-Mode: cors
+x-apikey: C1xujSegT5j3ap3yexJjqhOfELwGKYvz
+is-helios-account: false
+Site-Banner: superstore
+Business-User-Agent: PCXWEB
+sentry-trace: 453479d5f17e4c29b9cac3682611d462-b8454918d6b27a64-1

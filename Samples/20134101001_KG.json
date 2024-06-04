@@ -1,0 +1,581 @@
+{
+    "code": "20134101001_KG",
+    "name": "Red Onion",
+    "description": "Red (or Italian) onions have a reddish-purple papery skin and a mild sweet flavour.  Use red onions to add colour and flavour to just about any dish. Slices of raw red onion work well in salads and as a topping for burgers, or roast and serve with sausage or flank steak.",
+    "brand": null,
+    "imageAssets": [
+        {
+            "imageUrl": null,
+            "smallUrl": "https://assets.shop.loblaws.ca/products/20134101001/b1/en/front/20134101001_front_a01_@2.png",
+            "mediumUrl": "https://assets.shop.loblaws.ca/products/20134101001/b3/en/front/20134101001_front_a06_@2.png",
+            "largeUrl": "https://assets.shop.loblaws.ca/products/20134101001/b2/en/front/20134101001_front_a06_@2.png",
+            "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20134101001/b1/en/front/20134101001_front_a01_@2.png",
+            "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20134101001/b3/en/front/20134101001_front_a06_@2.png",
+            "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20134101001/b2/en/front/20134101001_front_a06_@2.png"
+        }
+    ],
+    "isPrimaryVariant": false,
+    "packageSize": "",
+    "mchCode": "M02270305",
+    "offers": [
+        {
+            "price": {
+                "value": 2.44,
+                "unit": "ea",
+                "quantity": 1,
+                "reasonCode": 4,
+                "type": "REGULAR",
+                "expiryDate": "9999-12-31T00:00"
+            },
+            "wasPrice": null,
+            "comparisonPrices": [
+                {
+                    "value": 6.59,
+                    "unit": "kg",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": "REGULAR",
+                    "expiryDate": null
+                },
+                {
+                    "value": 2.99,
+                    "unit": "lb",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": "REGULAR",
+                    "expiryDate": null
+                }
+            ],
+            "memberOnlyPrice": null,
+            "memberOnlyComparisonPrices": [],
+            "sellerId": "",
+            "sellerName": null,
+            "promotions": [],
+            "memberOnlyPromotions": null,
+            "stockStatus": "OK",
+            "taxes": {
+                "gst": false,
+                "gstExemptTaxFlag": "",
+                "hst": false,
+                "ppft": false,
+                "preparedFoodTaxType": "N",
+                "pst": false,
+                "spft": false
+            },
+            "fees": null,
+            "shoppable": true,
+            "specifications": null,
+            "offerId": null,
+            "offerType": "OG",
+            "status": null,
+            "badges": {
+                "textBadge": {
+                    "type": "PREVIOUSLYPURCHASED",
+                    "text": "PreviouslyPurchased",
+                    "mopDealText": null,
+                    "points": null,
+                    "name": "Previously Purchased",
+                    "expiryDate": null,
+                    "promoType": null
+                },
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null,
+                "hotmBadge": null
+            },
+            "dealPrice": null,
+            "mopDealPrice": null
+        }
+    ],
+    "pricingUnits": {
+        "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+        "unit": "ea",
+        "interval": 1,
+        "minOrderQuantity": 1,
+        "maxOrderQuantity": 25,
+        "weighted": false
+    },
+    "breadcrumbs": [
+        {
+            "categoryCode": "27985",
+            "name": "Food",
+            "url": "/food/c/27985"
+        },
+        {
+            "categoryCode": "28000",
+            "name": "Fruits & Vegetables",
+            "url": "/food/fruits-vegetables/c/28000"
+        },
+        {
+            "categoryCode": "28195",
+            "name": "Fresh Vegetables",
+            "url": "/food/fruits-vegetables/fresh-vegetables/c/28195"
+        },
+        {
+            "categoryCode": "29617",
+            "name": "Potatos & Onions",
+            "url": "/food/fruits-vegetables/fresh-vegetables/potatos-onions/c/29617"
+        },
+        {
+            "categoryCode": "34509",
+            "name": "Onions",
+            "url": "/food/fruits-vegetables/fresh-vegetables/potatos-onions/onions/c/34509"
+        }
+    ],
+    "articleNumber": "20134101001",
+    "ingredients": "Red Onion.",
+    "nutritionFacts": [
+        {
+            "topNutrition": [
+                {
+                    "code": "servingSizeEN",
+                    "valueInGram": "85 g",
+                    "valuePercent": null,
+                    "subNutrients": null
+                },
+                {
+                    "code": "houseHoldServingSize",
+                    "valueInGram": "3.0 oz",
+                    "valuePercent": null,
+                    "subNutrients": null
+                },
+                {
+                    "code": "caloriesFromFat",
+                    "valueInGram": "0.8 cal",
+                    "valuePercent": null,
+                    "subNutrients": null
+                }
+            ],
+            "calories": {
+                "code": "calories",
+                "valueInGram": "35 cal",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "totalFat": {
+                "code": "totalFat",
+                "valueInGram": "0.1 g",
+                "valuePercent": "0 %",
+                "subNutrients": [
+                    {
+                        "code": "saturatedFat",
+                        "valueInGram": "0.0 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "transFat",
+                        "valueInGram": "0.0 g",
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "saturatedTransFat",
+                        "valueInGram": null,
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    }
+                ]
+            },
+            "totalCarbohydrate": {
+                "code": "totalCarbohydrate",
+                "valueInGram": "8 g",
+                "valuePercent": "3 %",
+                "subNutrients": [
+                    {
+                        "code": "sugar",
+                        "valueInGram": "4 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "dietaryFiber",
+                        "valueInGram": "1 g",
+                        "valuePercent": "4 %",
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "otherCarbohydrates",
+                        "valueInGram": "2.9 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    }
+                ]
+            },
+            "protein": {
+                "code": "protein",
+                "valueInGram": "1 g",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "potassium": {
+                "code": "potassium",
+                "valueInGram": "125 mg",
+                "valuePercent": "2 %",
+                "subNutrients": null
+            },
+            "microNutrition": [
+                {
+                    "code": "vitaminA",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "vitaminC",
+                    "valueInGram": null,
+                    "valuePercent": "6 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "calcium",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "iron",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "vitaminB6",
+                    "valueInGram": null,
+                    "valuePercent": "6 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "biotin",
+                    "valueInGram": null,
+                    "valuePercent": "10 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "phosphorous",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "magnesium",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                }
+            ],
+            "disclaimer": "ONION RED",
+            "ingredients": "Red Onion.",
+            "cholesterol": {
+                "code": "cholesterol",
+                "valueInGram": "0 mg",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "sodium": {
+                "code": "sodium",
+                "valueInGram": "3 mg",
+                "valuePercent": "0 %",
+                "subNutrients": null
+            }
+        }
+    ],
+    "isVariant": false,
+    "variantTheme": null,
+    "variantGroupId": null,
+    "uom": "KG",
+    "variants": [
+        {
+            "code": "20134101001_KG",
+            "name": "Red Onion",
+            "description": "Red (or Italian) onions have a reddish-purple papery skin and a mild sweet flavour.  Use red onions to add colour and flavour to just about any dish. Slices of raw red onion work well in salads and as a topping for burgers, or roast and serve with sausage or flank steak.",
+            "brand": null,
+            "imageAssets": [
+                {
+                    "imageUrl": null,
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20134101001/b1/en/front/20134101001_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20134101001/b3/en/front/20134101001_front_a06_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20134101001/b2/en/front/20134101001_front_a06_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20134101001/b1/en/front/20134101001_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20134101001/b3/en/front/20134101001_front_a06_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20134101001/b2/en/front/20134101001_front_a06_@2.png"
+                }
+            ],
+            "isPrimaryVariant": false,
+            "packageSize": "",
+            "mchCode": "M02270305",
+            "offers": [
+                {
+                    "price": {
+                        "value": 2.44,
+                        "unit": "ea",
+                        "quantity": 1,
+                        "reasonCode": 4,
+                        "type": "REGULAR",
+                        "expiryDate": "9999-12-31T00:00"
+                    },
+                    "wasPrice": null,
+                    "comparisonPrices": [
+                        {
+                            "value": 6.59,
+                            "unit": "kg",
+                            "quantity": 1,
+                            "reasonCode": null,
+                            "type": "REGULAR",
+                            "expiryDate": null
+                        },
+                        {
+                            "value": 2.99,
+                            "unit": "lb",
+                            "quantity": 1,
+                            "reasonCode": null,
+                            "type": "REGULAR",
+                            "expiryDate": null
+                        }
+                    ],
+                    "memberOnlyPrice": null,
+                    "memberOnlyComparisonPrices": [],
+                    "sellerId": "",
+                    "sellerName": null,
+                    "promotions": [],
+                    "memberOnlyPromotions": null,
+                    "stockStatus": "OK",
+                    "taxes": {
+                        "gst": false,
+                        "gstExemptTaxFlag": "",
+                        "hst": false,
+                        "ppft": false,
+                        "preparedFoodTaxType": "N",
+                        "pst": false,
+                        "spft": false
+                    },
+                    "fees": null,
+                    "shoppable": true,
+                    "specifications": null,
+                    "offerId": null,
+                    "offerType": "OG",
+                    "status": null,
+                    "badges": {
+                        "textBadge": {
+                            "type": "PREVIOUSLYPURCHASED",
+                            "text": "PreviouslyPurchased",
+                            "mopDealText": null,
+                            "points": null,
+                            "name": "Previously Purchased",
+                            "expiryDate": null,
+                            "promoType": null
+                        },
+                        "loyaltyBadge": null,
+                        "dealBadge": null,
+                        "newItemBadge": null,
+                        "hotmBadge": null
+                    },
+                    "dealPrice": null,
+                    "mopDealPrice": null
+                }
+            ],
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "breadcrumbs": [
+                {
+                    "categoryCode": "27985",
+                    "name": "Food",
+                    "url": "/food/c/27985"
+                },
+                {
+                    "categoryCode": "28000",
+                    "name": "Fruits & Vegetables",
+                    "url": "/food/fruits-vegetables/c/28000"
+                },
+                {
+                    "categoryCode": "28195",
+                    "name": "Fresh Vegetables",
+                    "url": "/food/fruits-vegetables/fresh-vegetables/c/28195"
+                },
+                {
+                    "categoryCode": "29617",
+                    "name": "Potatos & Onions",
+                    "url": "/food/fruits-vegetables/fresh-vegetables/potatos-onions/c/29617"
+                },
+                {
+                    "categoryCode": "34509",
+                    "name": "Onions",
+                    "url": "/food/fruits-vegetables/fresh-vegetables/potatos-onions/onions/c/34509"
+                }
+            ],
+            "articleNumber": "20134101001",
+            "ingredients": "Red Onion.",
+            "nutritionFacts": [
+                {
+                    "topNutrition": [
+                        {
+                            "code": "servingSizeEN",
+                            "valueInGram": "85 g",
+                            "valuePercent": null,
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "houseHoldServingSize",
+                            "valueInGram": "3.0 oz",
+                            "valuePercent": null,
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "caloriesFromFat",
+                            "valueInGram": "0.8 cal",
+                            "valuePercent": null,
+                            "subNutrients": null
+                        }
+                    ],
+                    "calories": {
+                        "code": "calories",
+                        "valueInGram": "35 cal",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    "totalFat": {
+                        "code": "totalFat",
+                        "valueInGram": "0.1 g",
+                        "valuePercent": "0 %",
+                        "subNutrients": [
+                            {
+                                "code": "saturatedFat",
+                                "valueInGram": "0.0 g",
+                                "valuePercent": null,
+                                "subNutrients": null
+                            },
+                            {
+                                "code": "transFat",
+                                "valueInGram": "0.0 g",
+                                "valuePercent": "0 %",
+                                "subNutrients": null
+                            },
+                            {
+                                "code": "saturatedTransFat",
+                                "valueInGram": null,
+                                "valuePercent": "0 %",
+                                "subNutrients": null
+                            }
+                        ]
+                    },
+                    "totalCarbohydrate": {
+                        "code": "totalCarbohydrate",
+                        "valueInGram": "8 g",
+                        "valuePercent": "3 %",
+                        "subNutrients": [
+                            {
+                                "code": "sugar",
+                                "valueInGram": "4 g",
+                                "valuePercent": null,
+                                "subNutrients": null
+                            },
+                            {
+                                "code": "dietaryFiber",
+                                "valueInGram": "1 g",
+                                "valuePercent": "4 %",
+                                "subNutrients": null
+                            },
+                            {
+                                "code": "otherCarbohydrates",
+                                "valueInGram": "2.9 g",
+                                "valuePercent": null,
+                                "subNutrients": null
+                            }
+                        ]
+                    },
+                    "protein": {
+                        "code": "protein",
+                        "valueInGram": "1 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    "potassium": {
+                        "code": "potassium",
+                        "valueInGram": "125 mg",
+                        "valuePercent": "2 %",
+                        "subNutrients": null
+                    },
+                    "microNutrition": [
+                        {
+                            "code": "vitaminA",
+                            "valueInGram": null,
+                            "valuePercent": "0 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "vitaminC",
+                            "valueInGram": null,
+                            "valuePercent": "6 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "calcium",
+                            "valueInGram": null,
+                            "valuePercent": "2 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "iron",
+                            "valueInGram": null,
+                            "valuePercent": "0 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "vitaminB6",
+                            "valueInGram": null,
+                            "valuePercent": "6 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "biotin",
+                            "valueInGram": null,
+                            "valuePercent": "10 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "phosphorous",
+                            "valueInGram": null,
+                            "valuePercent": "2 %",
+                            "subNutrients": null
+                        },
+                        {
+                            "code": "magnesium",
+                            "valueInGram": null,
+                            "valuePercent": "2 %",
+                            "subNutrients": null
+                        }
+                    ],
+                    "disclaimer": "ONION RED",
+                    "ingredients": "Red Onion.",
+                    "cholesterol": {
+                        "code": "cholesterol",
+                        "valueInGram": "0 mg",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    "sodium": {
+                        "code": "sodium",
+                        "valueInGram": "3 mg",
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    }
+                }
+            ],
+            "isVariant": false,
+            "variantTheme": null,
+            "variantGroupId": null,
+            "uom": "KG",
+            "variants": null,
+            "link": "/red-onion/p/20134101001_KG",
+            "averageWeight": "0.37"
+        }
+    ],
+    "link": "/red-onion/p/20134101001_KG",
+    "averageWeight": "0.37"
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderDownloader", "OrderDownloader\OrderDownloader.csproj", "{9263F193-B7FB-4CA2-B6D2-A8FC8265ECBF}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OrderAnalysis", "OrderAnalysis\OrderAnalysis.fsproj", "{26FEBA8F-5514-4143-8F9F-94269514046A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9263F193-B7FB-4CA2-B6D2-A8FC8265ECBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9263F193-B7FB-4CA2-B6D2-A8FC8265ECBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9263F193-B7FB-4CA2-B6D2-A8FC8265ECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9263F193-B7FB-4CA2-B6D2-A8FC8265ECBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FEBA8F-5514-4143-8F9F-94269514046A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FEBA8F-5514-4143-8F9F-94269514046A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FEBA8F-5514-4143-8F9F-94269514046A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FEBA8F-5514-4143-8F9F-94269514046A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

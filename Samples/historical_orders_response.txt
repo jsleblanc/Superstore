@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Access-Control-Allow-Origin: https://www.realcanadiansuperstore.ca
+Content-Encoding: gzip
+Date: Tue, 04 Jun 2024 01:53:54 GMT
+Access-Control-Allow-Credentials: true
+Content-Length: 3019
+Connection: keep-alive
+ETag: "07137c3476c5654a8735d518c9caae2dc"
+Vary: Origin, Accept-Encoding
+X-Correlation-ID: rrt-8118206444218897169-d-gea1-26286-5807175-380
+lblw-trace-id: 0.a4f4d517.1717466034.437627f1
